@@ -1,4 +1,5 @@
 **/data/*.sqlite
 !**/data/.jocarsa-documentacion-exclude
 **/bin/
+**/*.obj
 __pycache__/

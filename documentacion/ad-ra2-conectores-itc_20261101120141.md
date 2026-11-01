@@ -2,14 +2,14 @@
 
 ## Información de generación
 
-- **Fecha:** 2026-11-01 12:01:21 +0100
+- **Fecha:** 2026-11-01 12:01:41 +0100
 - **Usuario:** freak
 - **Equipo:** JARVIS
 - **Sistema operativo:** Windows
 - **Arquitectura:** x86_64
 - **Directorio de ejecución:** `C:/Users/freak/DAM2`
 - **Proyecto documentado:** `C:/Users/freak/Documents/DAM2-entregas/ad-ra2-conectores-itc`
-- **HMAC-SHA-256 de autenticidad:** `c96d15eb62c9c7f095c39daf5e198bb3af1dfc368a1718cd5aca2e3ec8fe5285`
+- **HMAC-SHA-256 de autenticidad:** `ef393808be6c0a52495fd958fe2cf00e965dd79d79d836e740267f6ce9a94991`
 
 > El HMAC-SHA-256 se calcula sobre el documento completo usando un secreto incluido en el programa y 64 ceros en el propio campo del HMAC. El secreto no se escribe en el informe. Este mecanismo permite comprobar integridad y que el documento fue generado con el mismo secreto.
 
